@@ -1,51 +1,65 @@
-baseURL = "http://example.org/"
+baseURL = "http://example.com/"
 languageCode = "en-us"
 title = "Meera Sundar"
-theme = "harbor"
+theme = "minimal"
 
-[Author]
-  name = "Hugo Author"
+[params]
+    author = "Meera Sundar"
+    description = "Personal blog theme powered by Hugo"
+    githubUsername = "meerasndr"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
-[outputs]
-  section = ["JSON", "HTML"]
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
 
-[[params.nav]]
-  identifier = "about"
-  name = "About"
-  icon = "fas fa-user fa-lg"
-  url = "/about/"
-  weight = 3
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
 
-[[params.nav]]
-  identifier = "tags"
-  name = "Tags"
-  icon = "fas fa-tag fa-lg"
-  url = "tags"
-  weight = 3
+[[menu.main]]
+    url = "/post/"
+    name = "Posts"
+    weight = 3
 
-[[params.nav]]
-  identifier = "categories"
-  name = "Category"
-  icon = "fas fa-folder-open fa-lg"
-  url = "categories"
-  weight = 3
+[[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 4
 
-[[params.nav]]
-  identifier = "search"
-  name = "Search"
-  icon = "fas fa-search fa-lg"
-  url = "search"
-  weight = 3
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
 
-[[params.nav]]
-  identifier = "archives"
-  name = "Archives"
-  icon = "fas fa-archive fa-lg"
-  url = "archives"
-  weight = 3
+[[menu.icon]]
+    url = "mailto:me@example.com"
+    name = "envelope-o"
+    weight = 1
 
-[params.logo]
-  url = "icon.png" # static/images/icon.png
-  width = 50
-  height = 50
-  alt = "Logo"
+[[menu.icon]]
+    url = "https://github.com/meerasndr/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/latticebridge/"
+    name = "twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/username/"
+    name = "linkedin"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://www.stackoverflow.com/username/"
+    name = "stack-overflow"
+    weight = 5
