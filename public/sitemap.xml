@@ -3,31 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2020-07-13T23:01:30+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/</loc>
-    <lastmod>2020-07-13T23:01:30+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/second/</loc>
-    <lastmod>2020-07-13T23:01:30+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/first/</loc>
+    <loc>https://meerasundar.netlify.app/posts/first/</loc>
     <lastmod>2020-07-13T22:30:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>https://meerasundar.netlify.app/</loc>
+    <lastmod>2020-07-13T22:30:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://meerasundar.netlify.app/posts/</loc>
+    <lastmod>2020-07-13T22:30:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meerasundar.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://meerasundar.netlify.app/tags/</loc>
   </url>
   
 </urlset>

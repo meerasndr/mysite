@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meera Sundar</title>
-    <link>http://example.com/</link>
+    <link>https://meerasundar.netlify.app/</link>
     <description>Recent content on Meera Sundar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2020 23:01:30 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 22:30:19 +0530</lastBuildDate>
     
-	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://meerasundar.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Second</title>
-      <link>http://example.com/posts/second/</link>
-      <pubDate>Mon, 13 Jul 2020 23:01:30 +0530</pubDate>
-      
-      <guid>http://example.com/posts/second/</guid>
-      <description>This is a test post from Hugo</description>
-    </item>
     
     <item>
       <title>First</title>
-      <link>http://example.com/posts/first/</link>
+      <link>https://meerasundar.netlify.app/posts/first/</link>
       <pubDate>Mon, 13 Jul 2020 22:30:19 +0530</pubDate>
       
-      <guid>http://example.com/posts/first/</guid>
+      <guid>https://meerasundar.netlify.app/posts/first/</guid>
       <description>Hellow World!</description>
     </item>
     
