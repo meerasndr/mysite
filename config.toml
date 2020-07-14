@@ -9,7 +9,7 @@ theme = "minimal"
     githubUsername = "meerasndr"
     accent = "red"
     showBorder = true
-    backgroundColor = "white"
+    backgroundColor = "light-gray"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
@@ -21,14 +21,9 @@ theme = "minimal"
     weight = 1
 
 [[menu.main]]
-    url = "/about/"
-    name = "About"
-    weight = 2
-
-[[menu.main]]
     url = "/posts/"
     name = "Posts"
-    weight = 3
+    weight = 2
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
