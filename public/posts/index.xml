@@ -20,5 +20,14 @@
       <description>Hellow World!</description>
     </item>
     
+    <item>
+      <title>Second</title>
+      <link>https://meerasundar.netlify.app/posts/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meerasundar.netlify.app/posts/second/</guid>
+      <description>This is a second post.</description>
+    </item>
+    
   </channel>
 </rss>
