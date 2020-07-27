@@ -25,6 +25,11 @@ theme = "minimal"
     name = "Posts"
     weight = 2
 
+[[menu.main]]
+    url = "/projects/"
+    name = "Projects"
+    weight = 3
+
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
@@ -43,3 +48,8 @@ theme = "minimal"
     url = "https://stackoverflow.com/users/11915985/meera"
     name = "stack-overflow"
     weight = 3
+
+[[menu.icon]]
+  url = "https://soundcloud.com/meerasndr"
+  name = "soundcloud"
+  weight = 4
