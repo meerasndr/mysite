@@ -13,21 +13,6 @@ title = "Meera Sundar"
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
 
-[[params.social]]
-  icon = "github"
-  url = "https://github.com/meerasndr/"
-
-[[params.social]]
-  icon = "twitter"
-  url = "https://twitter.com/meerasndr/"
-
-[[params.social]]
-    icon = "stack-overflow"
-    url = "https://stackoverflow.com/users/11915985/meera"
-
-[[params.social]]
-  icon = "soundcloud"
-  url = "https://soundcloud.com/meerasndr"
 
 [menu]
   [[menu.main]]

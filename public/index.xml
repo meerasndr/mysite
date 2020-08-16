@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Meera Sundar</title>
     <link>https://meerasundar.netlify.app/</link>
-    <description>Recent content on </description>
+    <description>Recent content on Meera Sundar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Aug 2020 16:31:15 +0530</lastBuildDate>
@@ -11,24 +11,28 @@
 	<atom:link href="https://meerasundar.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
+    
     <item>
       <title>Web Controlled Arduino LED</title>
-      <link>https://meerasundar.netlify.app/posts/web-controlled-led/</link>
+      <link>https://meerasundar.netlify.app/web-controlled-arduino-led/</link>
       <pubDate>Sat, 15 Aug 2020 16:31:15 +0530</pubDate>
       
-      <guid>https://meerasundar.netlify.app/posts/web-controlled-led/</guid>
+      <guid>https://meerasundar.netlify.app/web-controlled-arduino-led/</guid>
       <description>As part of my initial experiments with the Arduino, I&amp;rsquo;ve been playing around with the Johnny-Five library. One of these led to building a homegrown room-temperature sensor + GraphQL project about which I wrote in my workplace blog.
 Another low-hanging fruit is a setup to control Arduino LEDs from the browser, through a HTML page with buttons. That is what this post is about. I&amp;rsquo;ll split this post into three parts:</description>
     </item>
     
+    
+    
     <item>
       <title>My First Post</title>
-      <link>https://meerasundar.netlify.app/posts/my-first-post/</link>
+      <link>https://meerasundar.netlify.app/my-first-post/</link>
       <pubDate>Mon, 27 Jul 2020 22:50:05 +0530</pubDate>
       
-      <guid>https://meerasundar.netlify.app/posts/my-first-post/</guid>
+      <guid>https://meerasundar.netlify.app/my-first-post/</guid>
       <description>Hello World!</description>
     </item>
+    
     
   </channel>
 </rss>
