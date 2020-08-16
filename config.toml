@@ -1,12 +1,14 @@
 baseURL = "https://meerasundar.netlify.app/"
 languageCode = "en-us"
-theme = "bare"
+theme = "etch"
+title = "Meera Sundar"
+
 
 [params]
-    author = "Meera Sundar"
-    description = "Developer. Musician."
-    includeAuthorInTitle = false
-    postcss = true
+  description = "Your site description"
+  copyright = "Copyright © 2020 Meera Sundar"
+  dark = "auto"
+  highlight = true
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
@@ -26,3 +28,28 @@ theme = "bare"
 [[params.social]]
   icon = "soundcloud"
   url = "https://soundcloud.com/meerasndr"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true
