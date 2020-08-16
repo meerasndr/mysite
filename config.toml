@@ -1,51 +1,27 @@
 baseURL = "https://meerasundar.netlify.app/"
 languageCode = "en-us"
-title = "Meera Sundar"
-theme = "anatole"
+theme = "bare"
 
 [params]
-    title = "Hi there. This is Meera."
     author = "Meera Sundar"
     description = "Developer. Musician."
-    showBorder = true
-    font = "Raleway" # should match the name on Google Fonts!
-    displayMode = "dark"
-
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
-
-[[menu.main]]
-    url = "/posts/"
-    name = "Posts"
-    weight = 2
-
-[[menu.main]]
-    url = "/projects/"
-    name = "Projects"
-    weight = 3
-
+    includeAuthorInTitle = false
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
 
-[[menu.icon]]
-    url = "https://github.com/meerasndr/"
-    name = "github"
-    weight = 1
+[[params.social]]
+  icon = "github"
+  url = "https://github.com/meerasndr/"
 
-[[menu.icon]]
-    url = "https://twitter.com/latticebridge/"
-    name = "twitter"
-    weight = 2
+[[params.social]]
+  icon = "twitter"
+  url = "https://twitter.com/meerasndr/"
 
-[[menu.icon]]
+[[params.social]]
+    icon = "stack-overflow"
     url = "https://stackoverflow.com/users/11915985/meera"
-    name = "stack-overflow"
-    weight = 3
 
-[[menu.icon]]
+[[params.social]]
+  icon = "soundcloud"
   url = "https://soundcloud.com/meerasndr"
-  name = "soundcloud"
-  weight = 4

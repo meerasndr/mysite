@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    
+    Web Controlled Arduino LED
+    
+  </title>
+  <link rel="stylesheet" href='https://meerasundar.netlify.app/css/site.min.3238a0369bbf8062be21e7a221ec5f1e00f962621b3b1624cda5a7fae70c63258deef486af09b0381819a0104aa7ea9c936d5d9ad24b90b39b1fdd9015a1074e.css' integrity='sha512-MjigNpu/gGK&#43;IeeiIexfHgD5YmIbOxYkzaWn&#43;ucMYyWN7vSGrwmwOBgZoBBKp&#43;qck21dmtJLkLObH92QFaEHTg=='>
+  <link rel="canonical" href="https://meerasundar.netlify.app/posts/web-controlled-led/">
+  <link rel="alternate" type="application/rss&#43;xml" href="https://meerasundar.netlify.app/index.xml" title="">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<meta name="author" content="Meera Sundar">
+<meta name="description" content="As part of my initial experiments with the Arduino, I&rsquo;ve been playing around with the Johnny-Five library. One of these led to building a homegrown room-temperature sensor &#43; GraphQL project about which I wrote in my workplace blog.
+Another low-hanging fruit is a setup to control Arduino LEDs from the browser, through a HTML page with buttons. That is what this post is about. I&rsquo;ll split this post into three parts:">
+
+<meta property="og:title" content="Web Controlled Arduino LED" />
+<meta property="og:description" content="As part of my initial experiments with the Arduino, I&rsquo;ve been playing around with the Johnny-Five library. One of these led to building a homegrown room-temperature sensor &#43; GraphQL project about which I wrote in my workplace blog.
+Another low-hanging fruit is a setup to control Arduino LEDs from the browser, through a HTML page with buttons. That is what this post is about. I&rsquo;ll split this post into three parts:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://meerasundar.netlify.app/posts/web-controlled-led/" />
+<meta property="article:published_time" content="2020-08-15T16:31:15+05:30" />
+<meta property="article:modified_time" content="2020-08-15T16:31:15+05:30" />
+
+
+</head>
+<body><nav class="navbar is-transparent " role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="https://meerasundar.netlify.app/">
+      <figure class="image">
+        <img alt="" class="is-rounded" src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=128&d=identicon">
+      </figure>
+    </a>
+    <a class="navbar-item" href="https://meerasundar.netlify.app/">
+      
+    </a>
+  </div>
+  
+  <div class="navbar-menu">
+    <div class="navbar-start">
+      
+    </div>
+    
+    <div class="navbar-end">
+      
+      <a class="navbar-item" href="https://github.com/meerasndr/" rel="noopener" target="_blank">
+        <span class="icon">
+          
+            <img alt="icons/svg/github.svg" src='https://meerasundar.netlify.app/icons/svg/github.svg'>
+          
+        </span>
+      </a>
+      
+      <a class="navbar-item" href="https://twitter.com/meerasndr/" rel="noopener" target="_blank">
+        <span class="icon">
+          
+            <img alt="icons/svg/twitter.svg" src='https://meerasundar.netlify.app/icons/svg/twitter.svg'>
+          
+        </span>
+      </a>
+      
+      <a class="navbar-item" href="https://stackoverflow.com/users/11915985/meera" rel="noopener" target="_blank">
+        <span class="icon">
+          
+            <img alt="icons/svg/stack-overflow.svg" src='https://meerasundar.netlify.app/icons/svg/stack-overflow.svg'>
+          
+        </span>
+      </a>
+      
+      <a class="navbar-item" href="https://soundcloud.com/meerasndr" rel="noopener" target="_blank">
+        <span class="icon">
+          
+            <img alt="icons/svg/soundcloud.svg" src='https://meerasundar.netlify.app/icons/svg/soundcloud.svg'>
+          
+        </span>
+      </a>
+      
+      <a class="navbar-item" href="mailto:" target="_blank">
+        <span class="icon">
+          <img alt="email" src='https://meerasundar.netlify.app/icons/svg/email.svg'>
+        </span>
+      </a>
+      <a class="navbar-item" href="https://meerasundar.netlify.app/index.xml" target="_blank">
+        <span class="icon">
+          <img alt="rss" src='https://meerasundar.netlify.app/icons/svg/rss.svg'>
+        </span>
+      </a>
+      
+    </div>
+  </div>
+</nav>
+<section class="hero is-small is-info is-fullwidth">
+  <div class="hero-body">
+<div class="container">
+  <h1 class="title">
+    Web Controlled Arduino LED
+  </h1>
+  <h2 class="subtitle">
+    <time datetime='2020-08-15T16:31:15&#43;05:30'>
+      August 15, 2020
+    </time>
+    
+  </h2>
+</div>
+
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+<div class="content is-medium">
+  <p>As part of my initial experiments with the Arduino, I&rsquo;ve been playing around with the <a href="http://johnny-five.io/">Johnny-Five library</a>. One of these led to building a homegrown room-temperature sensor + GraphQL project about which I wrote in my workplace <a href="https://hasura.io/blog/experiments-with-arduino-and-hasura/">blog</a>.</p>
+<p>Another low-hanging fruit is a setup to control Arduino LEDs from the browser, through a HTML page with buttons. That is what this post is about. I&rsquo;ll split this post into three parts:</p>
+<ol>
+<li>The browser</li>
+<li>The server</li>
+<li>The Arduino board</li>
+</ol>
+<h3 id="the-browser">The Browser</h3>
+<p>This is a very simple HTML page, with <code>on</code> and <code>off</code> buttons. Their <code>onclick</code> events are hooked up to a couple of JS functions.
+<code>&lt;button onclick=&quot;makeBlink()&quot;&gt;Blink LED&lt;/button&gt; &lt;button onclick=&quot;stopBlink()&quot;&gt;Stop LED&lt;/button&gt; </code></p>
+<h3 id="the-server">The server</h3>
+<p>Since the Arduino is being controlled by Nodejs and Johnny-Five, we use Express to route the button onclick events.
+`app.get('/blink&rsquo;, (req, res) =&gt; {
+res.send(&ldquo;Hellow world!&quot;)
+blink()
+})
+app.get('/stopblink&rsquo;, (req, res) =&gt; {
+res.send(&ldquo;Bye!!&quot;)
+stopblink()</p>
+<p>})
+app.listen(3000, () =&gt; {
+console.log(&ldquo;Server has started and is listening on port 3000&rdquo;)
+})`</p>
+<h3 id="the-arduino-board">The Arduino board</h3>
+<h5 id="initial-board-setup">Initial Board setup</h5>
+<ul>
+<li><a href="https://www.arduino.cc/en/Main/Software">Download</a> the Arduino IDE for your machine and install it</li>
+<li>Connect your Arduino board to your machine and open up the IDE</li>
+<li>Navigate to File -&gt; Examples -&gt; Firmata -&gt; StandardFirmataPlus</li>
+<li>This would open a “sketch” in the IDE. Load this on to the board
+I have a simple LED pin connected to port 13 on the board.</li>
+</ul>
+<h5 id="on-board-ready">On board ready</h5>
+<p>Once the board is detected by Johnny-five and initialized, <code>board.on(&quot;ready&quot;)</code> is available. The <code>blink()</code> and <code>stopblink()</code> functions within this are called from the <code>/blink</code> and <code>/stopblink</code> routes that we have setup above.</p>
+<h3 id="running-the-project">Running the project</h3>
+<p>The full code is <a href="https://github.com/meerasndr/arduino-webcontrolled-led">here</a>.  Once all the packages are installed, run <code>node server.js</code>. This should setup a localhost on port 3000, which is ready to listen to incoming requests.
+Open up <code>pressbtn.html</code> in your favourite browser. If everything is set up correctly, clicking on the Blink LED and Stop LED buttons should control the on-board LED.</p>
+
+</div>
+
+
+  </div>
+</section></body>
+</html>
