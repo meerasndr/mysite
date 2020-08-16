@@ -11,14 +11,13 @@ Another low-hanging fruit is a setup to control Arduino LEDs from the browser, t
 3. The Arduino board
 
 ### The Browser
-This is a very simple HTML page, with `on` and `off` buttons. Their `onclick` events are hooked up to a couple of JS functions.
+This is a very simple HTML page, with `on` and `off` buttons. Their `onclick` events are hooked up to a couple of JS functions. 
    `<button onclick="makeBlink()">Blink LED</button>
     <button onclick="stopBlink()">Stop LED</button> `
 
 ### The server
 Since the Arduino is being controlled by Nodejs and Johnny-Five, we use Express to route the button onclick events.
 `app.get('/blink', (req, res) => {
-
       res.send("Hellow world!")
       blink()
 })

@@ -1,19 +1,15 @@
 baseURL = "https://meerasundar.netlify.app/"
 languageCode = "en-us"
 title = "Meera Sundar"
-theme = "minimal"
+theme = "anatole"
 
 [params]
+    title = "Hi there. This is Meera."
     author = "Meera Sundar"
     description = "Developer. Musician."
-    githubUsername = "meerasndr"
-    accent = "red"
     showBorder = true
-    backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    displayMode = "dark"
 
 [[menu.main]]
     url = "/"
