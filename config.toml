@@ -1,27 +1,60 @@
 baseURL = "https://meerasundar.netlify.app/"
 languageCode = "en-us"
-theme = "etch"
+theme = "ezhil"
 title = "Meera Sundar"
 
+# Number of characters to show in summary.
+summaryLength = 20
+
+# Enable syntax highlighting.
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
 [params]
-  description = "Your site description"
-  copyright = "Copyright © 2020 Meera Sundar"
-  dark = "auto"
-  highlight = true
-# Social icons to be shown on the right-hand side of the navigation bar.
-# The "name" field should match the name of the icon in Font Awesome.
-# The list of available icons can be found at http://fontawesome.io/icons.
+  # Blog subtitle which appears below blog title. Supports markdown.
+  subtitle = "Programmer & musician"
+  # Content types which are included in home page recent posts list.
+  mainSections = ["posts"]
+  # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
+  featherIconsCDN = true
+  # Switch to dark mode or auto detect mode from OS (Optional).
+  # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
+  mode = "auto" # "dark" or "auto"
 
+# Main menu which appears below site header.
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
 
+[[menu.main]]
+  name = "Archive"
+  url = "/posts"
+  weight = 2
 
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 3
 
-[permalinks]
-  posts = "/:title/"
+[[menu.main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 4
 
-[markup.goldmark.renderer]
-  # Allow HTML in Markdown
-  unsafe = true
+# Social media links which shows up on site header.
+# Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
+[[params.social]]
+  name = "Github"
+  icon = "github"
+  url = "https://github.com/meerasndr"
 
-  [markup.tableOfContents]
-    ordered = true
+[[params.social]]
+  name = "Twitter"
+  icon = "twitter"
+  url = "https://twitter.com/meerasndr"
+
+# Enable tags.
+[taxonomies]
+ tag = "tags"
