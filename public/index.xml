@@ -7,36 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Aug 2020 16:31:15 +0530</lastBuildDate>
-    
+
 	<atom:link href="https://meerasundar.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+
+
     <item>
       <title>Web Controlled Arduino LED</title>
       <link>https://meerasundar.netlify.app/posts/web-controlled-led/</link>
       <pubDate>Sat, 15 Aug 2020 16:31:15 +0530</pubDate>
-      
+
       <guid>https://meerasundar.netlify.app/posts/web-controlled-led/</guid>
       <description>As part of my initial experiments with the Arduino, I&amp;rsquo;ve been playing around with the Johnny-Five library. One of these led to building a homegrown room-temperature sensor + GraphQL project about which I wrote in my workplace blog.</description>
     </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://meerasundar.netlify.app/posts/my-first-post/</link>
-      <pubDate>Mon, 27 Jul 2020 22:50:05 +0530</pubDate>
-      
-      <guid>https://meerasundar.netlify.app/posts/my-first-post/</guid>
-      <description>Hello World!</description>
-    </item>
-    
+
     <item>
       <title>Hello!</title>
       <link>https://meerasundar.netlify.app/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://meerasundar.netlify.app/about/</guid>
-      <description>My name is Meera Welcome to my site </description>
+      <description>Welcome to my WIP site </description>
     </item>
-    
+
   </channel>
 </rss>

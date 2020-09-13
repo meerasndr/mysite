@@ -20,14 +20,5 @@
       <description>As part of my initial experiments with the Arduino, I&amp;rsquo;ve been playing around with the Johnny-Five library. One of these led to building a homegrown room-temperature sensor + GraphQL project about which I wrote in my workplace blog.</description>
     </item>
     
-    <item>
-      <title>My First Post</title>
-      <link>https://meerasundar.netlify.app/posts/my-first-post/</link>
-      <pubDate>Mon, 27 Jul 2020 22:50:05 +0530</pubDate>
-      
-      <guid>https://meerasundar.netlify.app/posts/my-first-post/</guid>
-      <description>Hello World!</description>
-    </item>
-    
   </channel>
 </rss>
