@@ -5,10 +5,13 @@ menu = "bookmarks"
 type = "page"
 +++
 
-#### Great reads
+#### Favourite reads
+[Epigrams on Programming](https://gist.github.com/camdez/812824ed9d48df14604d)\
+[Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) \
 [RDBMS in a single picture](https://medium.com/@iljamoisejevs/relational-database-in-a-single-picture-dcc5685a4105) \
 [Computers are hard](https://medium.com/computers-are-hard/computers-are-hard-ed82bccc5c87)\
-[The Well Rounded Engineer: Critical Path](https://speakerdeck.com/swanandp/the-well-rounded-engineer)
+[The Well Rounded Engineer: Critical Path](https://speakerdeck.com/swanandp/the-well-rounded-engineer)\
+[What is your life's blueprint? - ML King](https://projects.seattletimes.com/mlk/words-blueprint.html)
 
 #### Tech Blogs
 [Brendan Gregg](http://www.brendangregg.com/blog/index.html) \
