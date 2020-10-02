@@ -7,7 +7,8 @@ type = "page"
 
 #### Great reads
 [RDBMS in a single picture](https://medium.com/@iljamoisejevs/relational-database-in-a-single-picture-dcc5685a4105) \
-[Computers are hard](https://medium.com/computers-are-hard/computers-are-hard-ed82bccc5c87)
+[Computers are hard](https://medium.com/computers-are-hard/computers-are-hard-ed82bccc5c87)\
+[The Well Rounded Engineer: Critical Path](https://speakerdeck.com/swanandp/the-well-rounded-engineer)
 
 #### Tech Blogs
 [Brendan Gregg](http://www.brendangregg.com/blog/index.html) \
