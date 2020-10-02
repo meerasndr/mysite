@@ -1,13 +1,14 @@
 baseURL = "https://meerasundar.netlify.app/"
 Theme = "hugo-theme-nix"
+title = "Meera Sundar"
 
 [params]
       Name = "Meera Sundar"
       HeaderUsername = "Meera"
       HeaderHostname = "Web"
-      About = "Hi there! Thanks for visiting my page."  
         GithubID = "meerasndr"
         TwitterID = "meerasndr"
+        SoundCloudID = "meerasndr"
 
 # Main menu which appears below site header.
 [menu]
