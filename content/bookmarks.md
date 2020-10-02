@@ -23,3 +23,4 @@ type = "page"
 [Github](https://github.blog/) \
 [Serokell](https://serokell.io/blog) \
 [Cloudflare](https://blog.cloudflare.com/)
+[Gitlab](https://about.gitlab.com/blog/)
