@@ -9,11 +9,12 @@ title = "Meera Sundar"
         GithubID = "meerasndr"
         TwitterID = "meerasndr"
         SoundCloudID = "meerasndr"
+        About = "Welcome! I am a programmer and musician based out of India. My interests include systems, evolution and puzzles."
 
 # Main menu which appears below site header.
 [menu]
       [[menu.header]]
-      name = "posts"
+      name = "blog"
       weight = 1
       url = "/posts"
       [[menu.header]]
