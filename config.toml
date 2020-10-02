@@ -16,7 +16,11 @@ Theme = "hugo-theme-nix"
       weight = 1
       url = "/posts"
       [[menu.header]]
-      name = "bookmarks"
+      name = "music"
       weight = 2
+      url = "/music"
+      [[menu.header]]
+      name = "bookmarks"
+      weight = 3
       url = "/bookmarks"
 

@@ -26,7 +26,14 @@ Another low-hanging fruit is a setup to control Arduino LEDs from the browser, t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://meerasundar.netlify.app/bookmarks/</guid>
-      <description>Company Tech Blogs  Netflix  </description>
+      <description>Great reads RDBMS in a single picture
+Computers are hard
+Personal Tech Blogs Brendan Gregg
+rachelbythebay
+Company Tech Blogs Netflix
+Github
+Serokell
+Cloudflare</description>
     </item>
     
     <item>
@@ -36,6 +43,15 @@ Another low-hanging fruit is a setup to control Arduino LEDs from the browser, t
       
       <guid>https://meerasundar.netlify.app/about/</guid>
       <description>Welcome to my WIP site </description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://meerasundar.netlify.app/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meerasundar.netlify.app/music/</guid>
+      <description></description>
     </item>
     
   </channel>
