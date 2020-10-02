@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bookmarks on Meera Sundar</title>
+    <link>https://meerasundar.netlify.app/bookmarks/</link>
+    <description>Recent content in Bookmarks on Meera Sundar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://meerasundar.netlify.app/bookmarks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://meerasundar.netlify.app/bookmarks/bookmarks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meerasundar.netlify.app/bookmarks/bookmarks/</guid>
+      <description>My bookmarks file </description>
+    </item>
+    
+  </channel>
+</rss>
