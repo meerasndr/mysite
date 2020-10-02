@@ -1,13 +1,11 @@
 baseURL = "https://meerasundar.netlify.app/"
 Theme = "hugo-theme-nix"
 
-
-
 [params]
       Name = "Meera Sundar"
       HeaderUsername = "Meera"
       HeaderHostname = "Web"
-      About = "Hi there!"  
+      About = "Hi there! Thanks for visiting my page."  
         GithubID = "meerasndr"
         TwitterID = "meerasndr"
 
