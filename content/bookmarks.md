@@ -18,9 +18,10 @@ type = "page"
 [rachelbythebay](https://rachelbythebay.com/) \
 [Joy of Computing](https://joy.recurse.com/)
 
-#### Company Engineering Blogs
+#### Company & OSS Engineering Blogs
 [Netflix](https://netflixtechblog.com/ ) \
+[Rustlang](https://blog.rust-lang.org/)
 [Github](https://github.blog/) \
 [Serokell](https://serokell.io/blog) \
-[Cloudflare](https://blog.cloudflare.com/)
+[Cloudflare](https://blog.cloudflare.com/) \
 [Gitlab](https://about.gitlab.com/blog/)
