@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 [params]
     author = "Meera Sundar"
     description = "Meera Sundar's personal website"
-    keywords = "blog,developer,personal"
+    keywords = "blog,developer,music"
     info = "Programmer and Musician"
     footercontent = "Enter a text"
 
