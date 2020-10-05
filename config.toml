@@ -71,6 +71,13 @@ pygmentscodefencesguesssyntax = true
     weight = 2
     url = "https://twitter.com/meerasndr"
 
+[[params.social]]
+    name = "Soundcloud"
+    icon = "fa fa-soundcloud"
+    weight = 2
+    url = "https://soundcloud.com/meerasndr"
+
+
 
 [languages]
     [languages.en]
