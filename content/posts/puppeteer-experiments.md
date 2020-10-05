@@ -19,4 +19,4 @@ I had a lot of fun putting this together. Some of the things I learned in the pr
 
 All of the code is available in this [repo](https://github.com/meerasndr/puppeteer-experiment). This does not include the NodeJS + Express based email notification service.
 
-This was overall a great experience. Thanks Old & Wroc TypeScript for having me present.
+This was overall a great experience. Thanks to Ola & Wroc TypeScript for having me present.
