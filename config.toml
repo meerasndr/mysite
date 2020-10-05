@@ -17,7 +17,7 @@ pygmentscodefencesguesssyntax = true
     author = "Meera Sundar"
     description = "Meera Sundar's personal website"
     keywords = "blog,developer,personal"
-    info = "Full Stack Developer and Musician"
+    info = "Programmer and Musician"
     footercontent = "Enter a text"
 
     dateformat = "January 2, 2006"
