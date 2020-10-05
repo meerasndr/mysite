@@ -6,7 +6,7 @@ draft = false
 
 I presented my first public tech-talk last week [here](https://www.meetup.com/WrocTypeScript/events/sjzhvqybcmbfc/). Due to the pandemic situation worldwide, most meetups have become virtual. So, I had the opportunity to present at a Poland-based meetup, from India!
 
-The title of my talk was: `Cross-browser testing and automation with Puppeteer and TypeScript`. It was mostly a code-walkthrough of sorts. The mini(some even micro)-projects I presented were:
+The title of my talk was: `Cross-browser testing and automation with Puppeteer and TypeScript`. It was a code-walkthrough of sorts. The mini(some even micro)-projects I presented were:
 - Hello Puppeteer : Screenshot & Image blocking demo
 - Testing DOM elements using Jest + Puppeteer
 - Tracking DOM value changes + GraphQL event notification (homegrown discount notification service!)
