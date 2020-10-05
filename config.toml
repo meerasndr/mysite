@@ -1,28 +1,95 @@
-baseURL = "https://meerasundar.netlify.app/"
-Theme = "hugo-theme-nix"
+baseurl = "https://meerasundar.netlify.app"
 title = "Meera Sundar"
 
-[params]
-      Name = "Meera Sundar"
-      HeaderUsername = "Meera"
-      HeaderHostname = "Web"
-        GithubID = "meerasndr"
-        TwitterID = "meerasndr"
-        SoundCloudID = "meerasndr"
-        About = "Welcome! I am a programmer and musician based out of India. My interests include systems, evolution and puzzles."
+theme = "hugo-coder"
 
-# Main menu which appears below site header.
-[menu]
-      [[menu.header]]
-      name = "blog"
-      weight = 1
-      url = "/posts"
-      [[menu.header]]
-      name = "music"
-      weight = 2
-      url = "/music"
-      [[menu.header]]
-      name = "bookmarks"
-      weight = 3
-      url = "/bookmarks"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[params]
+    author = "Meera Sundar"
+    description = "Meera Sundar's personal website"
+    keywords = "blog,developer,personal"
+    info = "Full Stack Developer and Musician"
+    footercontent = "Enter a text"
+
+    dateformat = "January 2, 2006"
+
+    hideFooter = false
+    hideCredits = false
+    hideCopyright = false
+    since = 2019
+
+    # Git Commit in Footer, uncomment the line below to enable it.
+    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+    rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorscheme = "dark"
+
+    # Hide the toggle button, along with the associated vertical divider
+    hidecolorschemetoggle = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Enable Twemoji
+    enableTwemoji = true
+
+    # Custom CSS
+    custom_css = []
+
+    # Custom JS
+    custom_js = []
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/meerasndr/"
+
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 2
+    url = "https://twitter.com/meerasndr"
+
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 1
+            url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Music"
+            weight = 2
+            url = "music/"
+
+            [[languages.en.menu.main]]
+            name = "Bookmarks"
+            weight = 3
+            url = "bookmarks/"
 
