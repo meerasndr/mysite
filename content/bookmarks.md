@@ -20,8 +20,8 @@ type = "page"
 
 #### Company & OSS Engineering Blogs
 [Netflix](https://netflixtechblog.com/ ) \
-[Main Rust](https://blog.rust-lang.org/)
-[Inside Rust](https://blog.rust-lang.org/inside-rust/index.html)
+[Main Rust](https://blog.rust-lang.org/)\
+[Inside Rust](https://blog.rust-lang.org/inside-rust/index.html)\
 [Github](https://github.blog/) \
 [Serokell](https://serokell.io/blog) \
 [Cloudflare](https://blog.cloudflare.com/) \
