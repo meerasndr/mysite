@@ -17,6 +17,7 @@ I had a lot of fun putting this together. Some of the things I learned in the pr
 2. Writing tests with Jest
 3. Setting up a Hasura event trigger to hook up to a server running Sendgrid email notification service
 
-All of the project code is available in [this repo](https://github.com/meerasndr/puppeteer-experiment). The repo for the Sendgrid + NodeJS + Express based email notification service is [here](https://github.com/meerasndr/sendgrid-node-express-emailservice)
+All of the project code is available in [this repo](https://github.com/meerasndr/puppeteer-experiment). The repo for the Sendgrid + NodeJS + Express based email notification service is [here](https://github.com/meerasndr/sendgrid-node-express-emailservice).
+You can watch the full talk [here](https://www.youtube.com/watch?v=Mmnwv5kr7No).
 
 This was overall a great experience. Thanks to my colleagues for the encouragement and Wroc TypeScript for having me present.
