@@ -1,4 +1,4 @@
-baseurl = "https://meerasundar.netlify.app"
+baseurl = "https://meerasundar.com"
 title = "Meera Sundar"
 
 theme = "hugo-coder"
@@ -17,7 +17,7 @@ pygmentscodefencesguesssyntax = true
     author = "Meera Sundar"
     description = "Meera Sundar's personal website"
     keywords = "blog,developer,music"
-    info = "Programmer and Musician"
+    info = "Engineer and Musician"
     footercontent = "Enter a text"
 
     dateformat = "January 2, 2006"
