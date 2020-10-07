@@ -19,7 +19,7 @@ I had a lot of fun putting this together. Some of the things I learned in the pr
 4. Setting up a Hasura event trigger, and hook it up to #3
 
 The full talk is available to watch-
- {{youtube Mmnwv5kr7No}}
+ {{< youtube Mmnwv5kr7No >}}
 
 All of the project code is available in [this repo](https://github.com/meerasndr/puppeteer-experiment). The repo for the Sendgrid + NodeJS + Express based email notification service is [here](https://github.com/meerasndr/sendgrid-node-express-emailservice).
 
