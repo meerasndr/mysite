@@ -1,5 +1,5 @@
 +++
-title = "Puppeteer Experiments"
+title = "Puppeteer Experiments & my talk at Wroclaw TypeScript"
 date = 2020-10-03T09:07:29+05:30
 draft = false
 +++
