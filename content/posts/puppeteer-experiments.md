@@ -15,7 +15,8 @@ The title of my talk was: `Cross-browser testing and automation with Puppeteer a
 I had a lot of fun putting this together. Some of the things I learned in the process:
 1. TypeScript in a bit more detail
 2. Writing tests with Jest
-3. Setting up a Hasura event trigger to hook up to a server running Sendgrid email notification service
+3. Setting up a server running a Sendgrid email notification service
+4. Setting up a Hasura event trigger, and hook it up to #3
 
 You can watch the full talk [here](https://www.youtube.com/watch?v=Mmnwv5kr7No).
 
