@@ -21,4 +21,4 @@ You can watch the full talk [here](https://www.youtube.com/watch?v=Mmnwv5kr7No).
 
 All of the project code is available in [this repo](https://github.com/meerasndr/puppeteer-experiment). The repo for the Sendgrid + NodeJS + Express based email notification service is [here](https://github.com/meerasndr/sendgrid-node-express-emailservice).
 
-This was overall a great experience. Thanks to my colleagues for the encouragement and Wroc TypeScript for having me present.
+This was overall a great experience. Thanks to my colleagues Aleksandra & Marion for the encouragement and Wroc TypeScript for having me present.
