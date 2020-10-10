@@ -12,6 +12,8 @@ type = "page"
 [Computers are hard](https://medium.com/computers-are-hard/computers-are-hard-ed82bccc5c87)\
 [The Well Rounded Engineer: Critical Path](https://speakerdeck.com/swanandp/the-well-rounded-engineer)\
 [What is your life's blueprint? - ML King](https://projects.seattletimes.com/mlk/words-blueprint.html)
+[Work on what matters](https://staffeng.com/guides/work-on-what-matters) \
+[How to remember what you learn](https://vasilishynkarenka.com/learning/)
 
 #### Tech Blogs
 [Brendan Gregg](http://www.brendangregg.com/blog/index.html) \
@@ -26,4 +28,5 @@ type = "page"
 [Serokell](https://serokell.io/blog) \
 [Cloudflare](https://blog.cloudflare.com/) \
 [Gitlab](https://about.gitlab.com/blog/) \
-[Uber Engineering](https://eng.uber.com/)
+[Uber Engineering](https://eng.uber.com/) \
+[Percona](https://www.percona.com/blog/)
