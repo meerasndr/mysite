@@ -19,7 +19,8 @@ type = "page"
 [Brendan Gregg](http://www.brendangregg.com/blog/index.html) \
 [rachelbythebay](https://rachelbythebay.com/) \
 [Joy of Computing](https://joy.recurse.com/) \
-[Christian Posta](https://blog.christianposta.com/posts/)
+[Christian Posta](https://blog.christianposta.com/posts/) \
+[Bruce Momjian](https://momjian.us/main/blogs/pgblog/2020.html)
 
 #### Company & OSS Engineering Blogs
 [Netflix](https://netflixtechblog.com/ ) \
