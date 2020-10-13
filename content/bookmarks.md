@@ -18,7 +18,8 @@ type = "page"
 #### Tech Blogs
 [Brendan Gregg](http://www.brendangregg.com/blog/index.html) \
 [rachelbythebay](https://rachelbythebay.com/) \
-[Joy of Computing](https://joy.recurse.com/)
+[Joy of Computing](https://joy.recurse.com/) \
+[Christian Posta](https://blog.christianposta.com/posts/)
 
 #### Company & OSS Engineering Blogs
 [Netflix](https://netflixtechblog.com/ ) \
