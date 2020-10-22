@@ -11,7 +11,7 @@ type = "page"
 [RDBMS in a single picture](https://medium.com/@iljamoisejevs/relational-database-in-a-single-picture-dcc5685a4105) \
 [Computers are hard](https://medium.com/computers-are-hard/computers-are-hard-ed82bccc5c87)\
 [The Well Rounded Engineer: Critical Path](https://speakerdeck.com/swanandp/the-well-rounded-engineer)\
-[What is your life's blueprint? - ML King](https://projects.seattletimes.com/mlk/words-blueprint.html)
+[What is your life's blueprint? - ML King](https://projects.seattletimes.com/mlk/words-blueprint.html) \
 [Work on what matters](https://staffeng.com/guides/work-on-what-matters) \
 [How to remember what you learn](https://vasilishynkarenka.com/learning/)
 
