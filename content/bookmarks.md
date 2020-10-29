@@ -22,7 +22,8 @@ type = "page"
 [Christian Posta](https://blog.christianposta.com/posts/) \
 [Bruce Momjian](https://momjian.us/main/blogs/pgblog/2020.html)\
 [openmymind](https://www.openmymind.io/)\
-[prog21](https://prog21.dadgum.com/)
+[prog21](https://prog21.dadgum.com/)\
+[Dmitry Soshnikov](http://dmitrysoshnikov.com/)
 
 #### Company & OSS Engineering Blogs
 [Netflix](https://netflixtechblog.com/ ) \
