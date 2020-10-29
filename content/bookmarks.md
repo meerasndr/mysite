@@ -20,7 +20,9 @@ type = "page"
 [rachelbythebay](https://rachelbythebay.com/) \
 [Joy of Computing](https://joy.recurse.com/) \
 [Christian Posta](https://blog.christianposta.com/posts/) \
-[Bruce Momjian](https://momjian.us/main/blogs/pgblog/2020.html)
+[Bruce Momjian](https://momjian.us/main/blogs/pgblog/2020.html)\
+[openmymind](https://www.openmymind.io/)\
+[prog21](https://prog21.dadgum.com/)
 
 #### Company & OSS Engineering Blogs
 [Netflix](https://netflixtechblog.com/ ) \
