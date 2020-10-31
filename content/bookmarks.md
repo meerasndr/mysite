@@ -24,7 +24,8 @@ type = "page"
 [openmymind](https://www.openmymind.io/)\
 [prog21](https://prog21.dadgum.com/)\
 [Dmitry Soshnikov](http://dmitrysoshnikov.com/)\
-[C++ Guru of the week by Herb Sutter](http://www.gotw.ca/gotw/index.htm)
+[C++ Guru of the week by Herb Sutter](http://www.gotw.ca/gotw/index.htm)\
+[Bret Victor](http://worrydream.com/)
 
 #### Company & OSS Engineering Blogs
 [Netflix](https://netflixtechblog.com/ ) \
