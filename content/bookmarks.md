@@ -37,3 +37,6 @@ type = "page"
 [Gitlab](https://about.gitlab.com/blog/) \
 [Uber Engineering](https://eng.uber.com/) \
 [Percona](https://www.percona.com/blog/)
+
+#### Other
+[Uses This](https://usesthis.com/)
