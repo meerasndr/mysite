@@ -14,7 +14,8 @@ type = "page"
 [What is your life's blueprint? - ML King](https://projects.seattletimes.com/mlk/words-blueprint.html) \
 [Work on what matters](https://staffeng.com/guides/work-on-what-matters) \
 [How to remember what you learn](https://vasilishynkarenka.com/learning/) \
-[The Tao of Programming](https://www.mit.edu/~xela/tao.html)
+[The Tao of Programming](https://www.mit.edu/~xela/tao.html)\
+[Surviving Disillusionment](https://www.spakhm.com/p/surviving-disillusionment)
 
 
 #### Tech Blogs
