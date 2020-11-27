@@ -15,7 +15,8 @@ type = "page"
 [Work on what matters](https://staffeng.com/guides/work-on-what-matters) \
 [How to remember what you learn](https://vasilishynkarenka.com/learning/) \
 [The Tao of Programming](https://www.mit.edu/~xela/tao.html)\
-[Surviving Disillusionment](https://www.spakhm.com/p/surviving-disillusionment)
+[Surviving Disillusionment](https://www.spakhm.com/p/surviving-disillusionment)\
+[The Story of MyCodeSchool](https://www.freecodecamp.org/news/mycodeschool-youtube-channel-history/)
 
 
 #### Tech Blogs
