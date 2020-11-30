@@ -16,7 +16,8 @@ type = "page"
 [How to remember what you learn](https://vasilishynkarenka.com/learning/) \
 [The Tao of Programming](https://www.mit.edu/~xela/tao.html)\
 [Surviving Disillusionment](https://www.spakhm.com/p/surviving-disillusionment)\
-[The Story of MyCodeSchool](https://www.freecodecamp.org/news/mycodeschool-youtube-channel-history/)
+[The Story of MyCodeSchool](https://www.freecodecamp.org/news/mycodeschool-youtube-channel-history/) \
+[Freak of Nurture - The remaking of Novak Djokovic](https://www.espn.in/tennis/story/_/id/8132800/has-novak-djokovic-become-fittest-athlete-ever-espn-magazine)
 
 
 #### Tech Blogs
