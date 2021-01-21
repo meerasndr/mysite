@@ -5,7 +5,8 @@ menu = "music"
 type = "page"
 +++
 
-- Carnatic 101: Informal online live-talks & recorded podcasts on Carnatic Music appreciation \ Run by [Raaga_Suresh](https://twitter.com/Raaga_Suresh) and me \
+- Carnatic 101: Informal online live-talks & recorded podcasts on Carnatic Music appreciation \
+Run by [Raaga_Suresh](https://twitter.com/Raaga_Suresh) and me \
     Find us on Twitter: [@carnatic101](https://twitter.com/carnatic101) \
     Our [YouTube channel](https://www.youtube.com/channel/UCtBS8xbf7WUT6i6mgEsEk9g)
 
