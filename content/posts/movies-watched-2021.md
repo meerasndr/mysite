@@ -11,7 +11,7 @@ This post basically is a record of the movies I watch in 2021, maybe with some n
 
 #### January:
 1. Soul (Pixar, English, 2020)
-2. Kiki's delivery service (anime)
+2. Kiki's delivery service (anime, 1989)
 3. Maara (Tamizh, 2021, Madhavan / Shraddha Srinath)
 4. The Chef (English, Jon Favreau)
 5. E.T. the Extra Terrestrial (English)
