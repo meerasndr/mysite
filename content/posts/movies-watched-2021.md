@@ -1,16 +1,10 @@
 +++ 
 draft = false
 date = 2021-01-21T12:12:56+05:30
-title = "Movies I watched in 2021"
-description = ""
-slug = "" 
-tags = []
-categories = []
-externalLink = ""
-series = []
+title = "Movies I am watching in 2021"
 +++
 
-## Movies I watched in 2021 (ongoing)
+## Movies I am watching in 2021
 I ended Dec 2020 by watching quite a few movies. I wanted to get into the habit of watching movies in 2021, especially ones that are outside my comfort zone. I would like to think of this as my attempt to "practice" film appreciation. My choice of films is a mix of recommendations from streaming services and film reviewers, and some classics, and sometimes even randomly on whim.
 
 This post basically is a record of the movies I watch in 2021, maybe with some notes.
