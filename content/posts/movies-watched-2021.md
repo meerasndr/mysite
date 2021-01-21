@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2021-01-21T12:12:56+05:30
-title = ""
+title = "Movies I watched in 2021"
 description = ""
 slug = "" 
 tags = []
