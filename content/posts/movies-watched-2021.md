@@ -5,7 +5,7 @@ title = "Movies I am watching in 2021"
 +++
 
 ## Movies I am watching in 2021
-I ended Dec 2020 by watching quite a few movies. I wanted to get into the habit of watching movies in 2021, especially ones that are outside my comfort zone. I would like to think of this as my attempt to "practice" film appreciation. My choice of films is a mix of recommendations from streaming services and film reviewers, and some classics, and sometimes even randomly on whim.
+I ended 2020 by watching quite a few movies in December. I wanted to get into the habit of watching movies in 2021, especially ones that are outside my comfort zone. I would like to think of this as my attempt to "practice" film appreciation. My choice of films is a mix of recommendations from streaming services and film reviewers, and some classics, and sometimes even randomly on whim.
 
 This post basically is a record of the movies I watch in 2021, maybe with some notes. I regularly re-watch some movies like Edhir Neechal (1968), Mozhi, Dangal, Thillu Mullu. I have not included these here.
 
