@@ -19,3 +19,5 @@ This post basically is a record of the movies I watch in 2021, maybe with some n
 7. Aandavan Kattalai (Tamizh, Vijay Sethupathi, 2016)
 8. Sir (Hindi, Tilottama Shome, 2018)
 9. City Lights(Silent, Charlie Chaplin, 1931)
+10. Tenet (English, Christopher Nolan, 2020)
+11. The Breadwinner (Animated, Nora Twomey, 2017)
