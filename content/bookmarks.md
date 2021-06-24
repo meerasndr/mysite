@@ -33,7 +33,8 @@ type = "page"
 [prog21](https://prog21.dadgum.com/)\
 [Dmitry Soshnikov](http://dmitrysoshnikov.com/)\
 [C++ Guru of the week by Herb Sutter](http://www.gotw.ca/gotw/index.htm)\
-[Bret Victor](http://worrydream.com/)
+[Bret Victor](http://worrydream.com/)\
+[Julia Evans](https://jvns.ca/)
 
 #### Company & OSS Engineering Blogs
 [Netflix](https://netflixtechblog.com/ ) \
