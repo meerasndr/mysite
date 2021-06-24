@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>https://meerasundar.netlify.app/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>Posts on Meera Sundar</title>
+    <link>https://meerasundar.com/posts/</link>
+    <description>Recent content in Posts on Meera Sundar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Aug 2020 16:31:15 +0530</lastBuildDate>
-    
-	<atom:link href="https://meerasundar.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Oct 2020 09:07:29 +0530</lastBuildDate><atom:link href="https://meerasundar.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puppeteer Experiments &amp; my talk at Wroclaw TypeScript</title>
+      <link>https://meerasundar.com/posts/puppeteer-experiments/</link>
+      <pubDate>Sat, 03 Oct 2020 09:07:29 +0530</pubDate>
+      
+      <guid>https://meerasundar.com/posts/puppeteer-experiments/</guid>
+      <description>I presented my first public tech-talk last week at Wroc TypeScript. Due to the pandemic situation worldwide, most meetups have become virtual. So, I had the opportunity to present at a Poland-based meetup, from India!
+The title of my talk was: Cross-browser testing and automation with Puppeteer and TypeScript. It was a code-walkthrough of sorts. The mini(some even micro)-projects I presented were:
+ Hello Puppeteer : Screenshot &amp;amp; Image blocking demo Testing DOM elements using Jest + Puppeteer Tracking DOM value changes + GraphQL event notification (homegrown discount notification service!</description>
+    </item>
     
     <item>
       <title>Web Controlled Arduino LED</title>
-      <link>https://meerasundar.netlify.app/posts/web-controlled-led/</link>
+      <link>https://meerasundar.com/posts/web-controlled-led/</link>
       <pubDate>Sat, 15 Aug 2020 16:31:15 +0530</pubDate>
       
-      <guid>https://meerasundar.netlify.app/posts/web-controlled-led/</guid>
+      <guid>https://meerasundar.com/posts/web-controlled-led/</guid>
       <description>As part of my initial experiments with the Arduino, I&amp;rsquo;ve been playing around with the Johnny-Five library. One of these led to building a homegrown room-temperature sensor + GraphQL project about which I wrote in my workplace blog.
 Another low-hanging fruit is a setup to control Arduino LEDs from the browser, through a HTML page with buttons. That is what this post is about. I&amp;rsquo;ll split this post into three parts:</description>
     </item>

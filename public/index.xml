@@ -1,57 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://meerasundar.netlify.app/</link>
-    <description>Recent content on </description>
+    <title>Meera Sundar</title>
+    <link>https://meerasundar.com/</link>
+    <description>Recent content on Meera Sundar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Aug 2020 16:31:15 +0530</lastBuildDate>
-    
-	<atom:link href="https://meerasundar.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Oct 2020 09:07:29 +0530</lastBuildDate><atom:link href="https://meerasundar.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puppeteer Experiments &amp; my talk at Wroclaw TypeScript</title>
+      <link>https://meerasundar.com/posts/puppeteer-experiments/</link>
+      <pubDate>Sat, 03 Oct 2020 09:07:29 +0530</pubDate>
+      
+      <guid>https://meerasundar.com/posts/puppeteer-experiments/</guid>
+      <description>I presented my first public tech-talk last week at Wroc TypeScript. Due to the pandemic situation worldwide, most meetups have become virtual. So, I had the opportunity to present at a Poland-based meetup, from India!
+The title of my talk was: Cross-browser testing and automation with Puppeteer and TypeScript. It was a code-walkthrough of sorts. The mini(some even micro)-projects I presented were:
+ Hello Puppeteer : Screenshot &amp;amp; Image blocking demo Testing DOM elements using Jest + Puppeteer Tracking DOM value changes + GraphQL event notification (homegrown discount notification service!</description>
+    </item>
     
     <item>
       <title>Web Controlled Arduino LED</title>
-      <link>https://meerasundar.netlify.app/posts/web-controlled-led/</link>
+      <link>https://meerasundar.com/posts/web-controlled-led/</link>
       <pubDate>Sat, 15 Aug 2020 16:31:15 +0530</pubDate>
       
-      <guid>https://meerasundar.netlify.app/posts/web-controlled-led/</guid>
+      <guid>https://meerasundar.com/posts/web-controlled-led/</guid>
       <description>As part of my initial experiments with the Arduino, I&amp;rsquo;ve been playing around with the Johnny-Five library. One of these led to building a homegrown room-temperature sensor + GraphQL project about which I wrote in my workplace blog.
 Another low-hanging fruit is a setup to control Arduino LEDs from the browser, through a HTML page with buttons. That is what this post is about. I&amp;rsquo;ll split this post into three parts:</description>
     </item>
     
     <item>
       <title>Bookmarks</title>
-      <link>https://meerasundar.netlify.app/bookmarks/</link>
+      <link>https://meerasundar.com/bookmarks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://meerasundar.netlify.app/bookmarks/</guid>
-      <description>Great reads RDBMS in a single picture
+      <guid>https://meerasundar.com/bookmarks/</guid>
+      <description>Favourite reads Epigrams on Programming
+Effective Engineer - Notes
+RDBMS in a single picture
 Computers are hard
-Personal Tech Blogs Brendan Gregg
-rachelbythebay
-Company Tech Blogs Netflix
-Github
-Serokell
-Cloudflare</description>
-    </item>
-    
-    <item>
-      <title>Hello!</title>
-      <link>https://meerasundar.netlify.app/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://meerasundar.netlify.app/about/</guid>
-      <description>Welcome to my WIP site </description>
+The Well Rounded Engineer: Critical Path
+What is your life&amp;rsquo;s blueprint? - ML King
+Work on what matters
+How to remember what you learn
+The Tao of Programming
+Surviving Disillusionment
+The Story of MyCodeSchool
+Freak of Nurture - The remaking of Novak Djokovic
+In defense of blub studies
+How to think for yourself</description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://meerasundar.netlify.app/music/</link>
+      <link>https://meerasundar.com/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://meerasundar.netlify.app/music/</guid>
-      <description></description>
+      <guid>https://meerasundar.com/music/</guid>
+      <description>  Carnatic 101: Informal online live-talks &amp;amp; recorded podcasts on Carnatic Music appreciation
+Run by Raaga_Suresh and me
+Find us on Twitter: @carnatic101
+Our YouTube channel
+  I&amp;rsquo;m putting together this WIP Awesome Carnatic Music: YouTube channels, playlists, apps and learning resources (Inspired by the popular Awesome List)
+Awesome Carnatic Music Repo
+  </description>
     </item>
     
   </channel>

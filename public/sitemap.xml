@@ -1,40 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://meerasundar.netlify.app/</loc>
+    <loc>https://meerasundar.com/</loc>
+    <lastmod>2020-10-03T09:07:29+05:30</lastmod>
+  </url><url>
+    <loc>https://meerasundar.com/posts/</loc>
+    <lastmod>2020-10-03T09:07:29+05:30</lastmod>
+  </url><url>
+    <loc>https://meerasundar.com/posts/puppeteer-experiments/</loc>
+    <lastmod>2020-10-03T09:07:29+05:30</lastmod>
+  </url><url>
+    <loc>https://meerasundar.com/posts/web-controlled-led/</loc>
     <lastmod>2020-08-15T16:31:15+05:30</lastmod>
+  </url><url>
+    <loc>https://meerasundar.com/bookmarks/</loc>
+  </url><url>
+    <loc>https://meerasundar.com/categories/</loc>
+  </url><url>
+    <loc>https://meerasundar.com/music/</loc>
+  </url><url>
+    <loc>https://meerasundar.com/series/</loc>
+  </url><url>
+    <loc>https://meerasundar.com/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://meerasundar.netlify.app/posts/</loc>
-    <lastmod>2020-08-15T16:31:15+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meerasundar.netlify.app/posts/web-controlled-led/</loc>
-    <lastmod>2020-08-15T16:31:15+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meerasundar.netlify.app/bookmarks/</loc>
-  </url>
-  
-  <url>
-    <loc>https://meerasundar.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://meerasundar.netlify.app/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://meerasundar.netlify.app/music/</loc>
-  </url>
-  
-  <url>
-    <loc>https://meerasundar.netlify.app/tags/</loc>
-  </url>
-  
 </urlset>

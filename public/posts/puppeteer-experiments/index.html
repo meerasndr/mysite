@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+
+    <meta name="author" content="Meera Sundar">
+    <meta name="description" content="I presented my first public tech-talk last week at Wroc TypeScript. Due to the pandemic situation worldwide, most meetups have become virtual. So, I had the opportunity to present at a Poland-based meetup, from India!
+The title of my talk was: Cross-browser testing and automation with Puppeteer and TypeScript. It was a code-walkthrough of sorts. The mini(some even micro)-projects I presented were:
+ Hello Puppeteer : Screenshot &amp; Image blocking demo Testing DOM elements using Jest &#43; Puppeteer Tracking DOM value changes &#43; GraphQL event notification (homegrown discount notification service!">
+    <meta name="keywords" content="blog,developer,music">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Puppeteer Experiments &amp; my talk at Wroclaw TypeScript"/>
+<meta name="twitter:description" content="I presented my first public tech-talk last week at Wroc TypeScript. Due to the pandemic situation worldwide, most meetups have become virtual. So, I had the opportunity to present at a Poland-based meetup, from India!
+The title of my talk was: Cross-browser testing and automation with Puppeteer and TypeScript. It was a code-walkthrough of sorts. The mini(some even micro)-projects I presented were:
+ Hello Puppeteer : Screenshot &amp; Image blocking demo Testing DOM elements using Jest &#43; Puppeteer Tracking DOM value changes &#43; GraphQL event notification (homegrown discount notification service!"/>
+
+    <meta property="og:title" content="Puppeteer Experiments &amp; my talk at Wroclaw TypeScript" />
+<meta property="og:description" content="I presented my first public tech-talk last week at Wroc TypeScript. Due to the pandemic situation worldwide, most meetups have become virtual. So, I had the opportunity to present at a Poland-based meetup, from India!
+The title of my talk was: Cross-browser testing and automation with Puppeteer and TypeScript. It was a code-walkthrough of sorts. The mini(some even micro)-projects I presented were:
+ Hello Puppeteer : Screenshot &amp; Image blocking demo Testing DOM elements using Jest &#43; Puppeteer Tracking DOM value changes &#43; GraphQL event notification (homegrown discount notification service!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://meerasundar.com/posts/puppeteer-experiments/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-10-03T09:07:29&#43;05:30" />
+<meta property="article:modified_time" content="2020-10-03T09:07:29&#43;05:30" />
+
+
+
+    <title>
+  Puppeteer Experiments &amp; my talk at Wroclaw TypeScript · Meera Sundar
+</title>
+
+    
+      <link rel="canonical" href="https://meerasundar.com/posts/puppeteer-experiments/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css" integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.9836c03fe5c87d102278a33e86d0591ef36c89b1e17e8e547ebf84c05cee010e.css" integrity="sha256-mDbAP&#43;XIfRAieKM&#43;htBZHvNsibHhfo5Ufr&#43;EwFzuAQ4=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="/css/coder-dark.min.717236c74e0a5208ef73964a9f44c6b443b689a95b270d8b2a40d0c012460dac.css" integrity="sha256-cXI2x04KUgjvc5ZKn0TGtEO2ialbJw2LKkDQwBJGDaw=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+      <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+    
+
+    <meta name="generator" content="Hugo 0.82.0" />
+  </head>
+
+  
+  
+    
+  
+  <body class="colorscheme-dark"
+        onload=" twemoji.parse(document.body); "
+  >
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      Meera Sundar
+    </a>
+    
+      
+        <span id="dark-mode-toggle" class="float-right">
+          <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+        </span>
+      
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/music/">Music</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/bookmarks/">Bookmarks</a>
+            </li>
+          
+        
+        
+        
+          <li class="navigation-item separator">
+            <span>|</span>
+          </li>
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">Puppeteer Experiments &amp; my talk at Wroclaw TypeScript</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <time datetime='2020-10-03T09:07:29&#43;05:30'>
+                October 3, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              One-minute read
+            </span>
+          </div>
+          
+          
+        </div>
+      </header>
+
+      <div>
+        
+        <p>I presented my first public tech-talk last week at <a href="https://www.meetup.com/WrocTypeScript/events/sjzhvqybcmbfc/">Wroc TypeScript</a>. Due to the pandemic situation worldwide, most meetups have become virtual. So, I had the opportunity to present at a Poland-based meetup, from India!</p>
+<p>The title of my talk was: <code>Cross-browser testing and automation with Puppeteer and TypeScript</code>. It was a code-walkthrough of sorts. The mini(some even micro)-projects I presented were:</p>
+<ul>
+<li>Hello Puppeteer : Screenshot &amp; Image blocking demo</li>
+<li>Testing DOM elements using Jest + Puppeteer</li>
+<li>Tracking DOM value changes + GraphQL event notification (homegrown discount notification service!)</li>
+<li>Cross-browser and <a href="https://github.com/microsoft/playwright">Playwright</a></li>
+</ul>
+<p>I had a lot of fun putting this together. Some of the things I learned in the process:</p>
+<ol>
+<li>TypeScript in a bit more detail</li>
+<li>Writing tests with Jest</li>
+<li>Setting up a server running a Sendgrid email notification service</li>
+<li>Setting up a Hasura event trigger, and hook it up to #3</li>
+</ol>
+<p>The full talk is available to watch-
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/Mmnwv5kr7No" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+</p>
+<p>All of the project code is available in <a href="https://github.com/meerasndr/puppeteer-experiment">this repo</a>. The repo for the Sendgrid + NodeJS + Express based email notification service is <a href="https://github.com/meerasndr/sendgrid-node-express-emailservice">here</a>.</p>
+<p>This was overall a great experience. Thanks to my colleagues Aleksandra &amp; Marion for the encouragement and Wroc TypeScript for having me present.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      
+    </main>
+
+    
+      
+      <script src="/js/dark-mode.min.aee9c8a464eb7b3534c7110f7c5e169e7039e2fd92710e0626d451d6725af137.js"></script>
+    
+
+    
+
+    
+
+    
+
+    
+
+  </body>
+
+</html>
