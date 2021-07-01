@@ -20,7 +20,8 @@ type = "page"
 [Freak of Nurture - The remaking of Novak Djokovic](https://www.espn.in/tennis/story/_/id/8132800/has-novak-djokovic-become-fittest-athlete-ever-espn-magazine)\
 [In defense of blub studies](https://www.benkuhn.net/blub/) \
 [How to think for yourself](http://paulgraham.com/think.html)\
-[Taming the Mammoth: Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
+[Taming the Mammoth: Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)\
+[From Coding Bootcamp Graduate to Building Distributed Databases](https://medium.com/swlh/from-coding-bootcamp-graduate-to-building-distributed-databases-29acbb723d8)
 
 
 #### Tech Blogs
