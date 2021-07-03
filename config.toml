@@ -17,8 +17,7 @@ pygmentscodefencesguesssyntax = true
     # author = "Meera Sundar"
     description = "Meera Sundar's personal website"
     keywords = "blog,developer,music"
-    info = "Hi, welcome to my personal website.
-            I am a software engineer and musician based out of India."
+    info = "Hi, welcome to my personal website. \ I am a software engineer and musician based out of India."
     footercontent = "©2021 Meera Sundar"
 
     dateformat = "January 2, 2006"
