@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
 
 
 [params]
-    author = "Meera Sundar"
+    # author = "Meera Sundar"
     description = "Meera Sundar's personal website"
     keywords = "blog,developer,music"
     info = "Engineer and Musician"
