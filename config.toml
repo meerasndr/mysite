@@ -1,5 +1,5 @@
 baseurl = "https://meerasundar.com"
-# title = "Meera Sundar"
+title = "Meera Sundar"
 
 theme = "hugo-coder"
 
