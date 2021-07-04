@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Meera Sundar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2020 09:07:29 +0530</lastBuildDate><atom:link href="https://meerasundar.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jun 2021 15:08:03 +0530</lastBuildDate><atom:link href="https://meerasundar.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making Systems Learning Colourful</title>
+      <link>https://meerasundar.com/posts/colourful-systems-learning/</link>
+      <pubDate>Thu, 24 Jun 2021 15:08:03 +0530</pubDate>
+      
+      <guid>https://meerasundar.com/posts/colourful-systems-learning/</guid>
+      <description>I am currently enrolled in the CS Intensive program at Bradfield School of Computer Science. A mastery-focused, deep-dive approach to fundamental Computer Science topics. I&amp;rsquo;m trying to put my iPad + Apple Pencil to good use while taking notes now. Good justification for the purchase too :D
+Here is a sample-</description>
+    </item>
+    
     <item>
       <title>Puppeteer Experiments &amp; my talk at Wroclaw TypeScript</title>
       <link>https://meerasundar.com/posts/puppeteer-experiments/</link>

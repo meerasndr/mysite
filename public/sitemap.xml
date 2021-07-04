@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://meerasundar.com/posts/colourful-systems-learning/</loc>
+    <lastmod>2021-06-24T15:08:03+05:30</lastmod>
+  </url><url>
     <loc>https://meerasundar.com/</loc>
-    <lastmod>2020-10-03T09:07:29+05:30</lastmod>
+    <lastmod>2021-06-24T15:08:03+05:30</lastmod>
   </url><url>
     <loc>https://meerasundar.com/posts/</loc>
-    <lastmod>2020-10-03T09:07:29+05:30</lastmod>
+    <lastmod>2021-06-24T15:08:03+05:30</lastmod>
   </url><url>
     <loc>https://meerasundar.com/posts/puppeteer-experiments/</loc>
     <lastmod>2020-10-03T09:07:29+05:30</lastmod>
