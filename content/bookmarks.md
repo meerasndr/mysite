@@ -49,5 +49,6 @@ type = "page"
 [Percona](https://www.percona.com/blog/)
 
 #### Other
-[Uses This](https://usesthis.com/)
-[Miss](https://zenhabits.net/miss/)
+[Uses This](https://usesthis.com/) \
+[Miss](https://zenhabits.net/miss/) \
+[Randy Pausch Quotes](https://www.goodreads.com/author/quotes/287960.Randy_Pausch)
