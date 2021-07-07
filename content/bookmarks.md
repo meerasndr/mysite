@@ -35,7 +35,9 @@ type = "page"
 [Dmitry Soshnikov](http://dmitrysoshnikov.com/)\
 [C++ Guru of the week by Herb Sutter](http://www.gotw.ca/gotw/index.htm)\
 [Bret Victor](http://worrydream.com/)\
-[Julia Evans](https://jvns.ca/)
+[Julia Evans](https://jvns.ca/) \
+[Dan Luu](https://danluu.com/) \
+[fasterthanlime](https://fasterthanli.me/)
 
 #### Company & OSS Engineering Blogs
 [Netflix](https://netflixtechblog.com/ ) \
