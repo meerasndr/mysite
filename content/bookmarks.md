@@ -37,7 +37,8 @@ type = "page"
 [Bret Victor](http://worrydream.com/)\
 [Julia Evans](https://jvns.ca/) \
 [Dan Luu](https://danluu.com/) \
-[fasterthanlime](https://fasterthanli.me/)
+[fasterthanlime](https://fasterthanli.me/) \
+[Scattered Thoughts](https://scattered-thoughts.net/)
 
 #### Company & OSS Engineering Blogs
 [Netflix](https://netflixtechblog.com/ ) \
