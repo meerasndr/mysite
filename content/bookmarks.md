@@ -21,7 +21,7 @@ type = "page"
 [In defense of blub studies](https://www.benkuhn.net/blub/) \
 [How to think for yourself](http://paulgraham.com/think.html)\
 [Taming the Mammoth: Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)\
-[From Coding Bootcamp Graduate to Building Distributed Databases](https://medium.com/swlh/from-coding-bootcamp-graduate-to-building-distributed-databases-29acbb723d8)\
+[From Coding Bootcamp Graduate to Building Distributed Databases](https://medium.com/swlh/from-coding-bootcamp-graduate-to-building-distributed-databases-29acbb723d8) \
 [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more)
 
 
