@@ -5,8 +5,7 @@ menu = "bookmarks"
 type = "page"
 +++
 
-### Favourite reads
-#### Technical & Career-related
+#### Favourite Reads: Technical & Career-related
 [Epigrams on Programming](https://gist.github.com/camdez/812824ed9d48df14604d)\
 [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) \
 [RDBMS in a single picture](https://medium.com/@iljamoisejevs/relational-database-in-a-single-picture-dcc5685a4105) \
@@ -22,7 +21,7 @@ type = "page"
 [A little bit of slope makes up for a lot of Y-intercept](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)\
 
 
-#### Other
+#### Favourite Reads: General topics
 [What is your life's blueprint? - ML King](https://projects.seattletimes.com/mlk/words-blueprint.html) \
 [Freak of Nurture - The remaking of Novak Djokovic](https://www.espn.in/tennis/story/_/id/8132800/has-novak-djokovic-become-fittest-athlete-ever-espn-magazine)\
 [How to think for yourself](http://paulgraham.com/think.html)\
@@ -32,7 +31,7 @@ type = "page"
 [Miss](https://zenhabits.net/miss/) \
 [Randy Pausch Quotes](https://www.goodreads.com/author/quotes/287960.Randy_Pausch)
 
-### Tech Blogs
+#### Tech Blogs I like
 [Brendan Gregg](http://www.brendangregg.com/blog/index.html) \
 [rachelbythebay](https://rachelbythebay.com/) \
 [Joy of Computing](https://joy.recurse.com/) \
@@ -56,7 +55,7 @@ type = "page"
 [Werner Vogels](https://www.allthingsdistributed.com/archive.html)\
 [Enosuchblog](https://blog.yossarian.net/archive)\
 
-### Company & OSS Engineering Blogs
+#### Company Engineering Blogs I like
 [Netflix](https://netflixtechblog.com/ ) \
 [Github](https://github.blog/) \
 [Serokell](https://serokell.io/blog) \
