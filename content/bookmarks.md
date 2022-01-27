@@ -9,7 +9,7 @@ type = "page"
 [Bret Victor - The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) \
 [Bret Victor - Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII) \
 [Rich Hickey - Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) \
-[Courtney Gibbons - So, you think you're bad at math...](https://www.youtube.com/watch?v=kenf8E1RuoA&list=WL&index=14)
+[Courtney Gibbons - So, you think you're bad at math...](https://www.youtube.com/watch?v=kenf8E1RuoA)
 
 
 #### Favourite Reads: Technical & Career-related
