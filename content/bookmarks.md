@@ -19,6 +19,8 @@ type = "page"
 [The Story of MyCodeSchool](https://www.freecodecamp.org/news/mycodeschool-youtube-channel-history/) \
 [In defense of blub studies](https://www.benkuhn.net/blub/) \
 [From Coding Bootcamp Graduate to Building Distributed Databases](https://medium.com/swlh/from-coding-bootcamp-graduate-to-building-distributed-databases-29acbb723d8) \
+[A little bit of slope makes up for a lot of Y-intercept](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)\
+
 
 #### Other
 [What is your life's blueprint? - ML King](https://projects.seattletimes.com/mlk/words-blueprint.html) \
@@ -48,6 +50,11 @@ type = "page"
 [High Scalability](http://highscalability.com/)\
 [Murat Buffalo](https://muratbuffalo.blogspot.com/)\
 [Bret Victor](http://worrydream.com/)\
+[Daniel Lemire](https://lemire.me/blog/)\
+[Made of Bugs](https://blog.nelhage.com/)\
+[Brian Callahan](https://briancallahan.net/blog/archive.html)\
+[Werner Vogels](https://www.allthingsdistributed.com/archive.html)\
+[Enosuchblog](https://blog.yossarian.net/archive)\
 
 ### Company & OSS Engineering Blogs
 [Netflix](https://netflixtechblog.com/ ) \
