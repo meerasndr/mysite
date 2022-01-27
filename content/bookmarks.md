@@ -5,8 +5,16 @@ menu = "bookmarks"
 type = "page"
 +++
 
+#### Favourite Videos
+[Bret Victor - The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) \
+[Bret Victor - Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII) \
+[Rich Hickey - Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) \
+[Courtney Gibbons - So, you think you're bad at math...](https://www.youtube.com/watch?v=kenf8E1RuoA&list=WL&index=14)
+
+
 #### Favourite Reads: Technical & Career-related
 [Epigrams on Programming](https://gist.github.com/camdez/812824ed9d48df14604d)\
+[Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html) \
 [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) \
 [RDBMS in a single picture](https://medium.com/@iljamoisejevs/relational-database-in-a-single-picture-dcc5685a4105) \
 [Computers are hard](https://medium.com/computers-are-hard/computers-are-hard-ed82bccc5c87)\
