@@ -26,7 +26,8 @@ type = "page"
 [The Story of MyCodeSchool](https://www.freecodecamp.org/news/mycodeschool-youtube-channel-history/) \
 [In defense of blub studies](https://www.benkuhn.net/blub/) \
 [From Coding Bootcamp Graduate to Building Distributed Databases](https://medium.com/swlh/from-coding-bootcamp-graduate-to-building-distributed-databases-29acbb723d8) \
-[A little bit of slope makes up for a lot of Y-intercept](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)
+[A little bit of slope makes up for a lot of Y-intercept](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185) \
+[Finding the optimal tradeoff between career and art](https://catern.com/optimize.html)
 
 
 #### Favourite Reads: General topics
