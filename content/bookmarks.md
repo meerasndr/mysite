@@ -33,6 +33,7 @@ type = "page"
 #### Favourite Reads: General topics
 [What is your life's blueprint? - ML King](https://projects.seattletimes.com/mlk/words-blueprint.html) \
 [Freak of Nurture - The remaking of Novak Djokovic](https://www.espn.in/tennis/story/_/id/8132800/has-novak-djokovic-become-fittest-athlete-ever-espn-magazine)\
+[Personal Best - Top athletes and singers have coaches. Should you?](https://www.newyorker.com/magazine/2011/10/03/personal-best) \
 [How to think for yourself](http://paulgraham.com/think.html)\
 [Taming the Mammoth: Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)\
 [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more)\
