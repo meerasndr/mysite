@@ -28,7 +28,7 @@ type = "page"
 - [From Coding Bootcamp Graduate to Building Distributed Databases](https://medium.com/swlh/from-coding-bootcamp-graduate-to-building-distributed-databases-29acbb723d8)
 - [A little bit of slope makes up for a lot of Y-intercept](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)
 - [Finding the optimal tradeoff between career and art](https://catern.com/optimize.html)
-
+- [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
 
 #### Favourite Reads: Life
 - [What is your life's blueprint? - ML King](https://projects.seattletimes.com/mlk/words-blueprint.html)
