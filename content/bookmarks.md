@@ -29,6 +29,8 @@ type = "page"
 - [A little bit of slope makes up for a lot of Y-intercept](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)
 - [Finding the optimal tradeoff between career and art](https://catern.com/optimize.html)
 - [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
+- [Learn in Public](https://www.swyx.io/learn-in-public)
+- [Don't call yourself a programmer and other career advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 
 #### Favourite Reads: Life
 - [What is your life's blueprint? - ML King](https://projects.seattletimes.com/mlk/words-blueprint.html)
